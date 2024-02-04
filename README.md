@@ -1,11 +1,16 @@
-<h1 align="center">Hi there, I'm Abdur Rahaman.</h1>
+<h1 align="center">Hi There, I'm Abdur Rahaman.</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahaman4363&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahaman4363" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharminakter3&label=Profile%20views&color=0e75b6&style=flat" alt="sharminakter3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahaman4363" alt="abdurrahaman4363" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 📫 **abdur.rahaman4363@gmail.com**
+- 🔭 I’m currently studying Computer Science & Engineering department *at BGC Trust University Bangladesh.*
+-  🌱 I’m currently learning *Data Structures and Algorithm.*
+
+- 👯 I’m looking to collaborate *on open-source projects.*
+
+- ⚡ Fun fact *I am funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
